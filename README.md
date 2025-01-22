@@ -1,1 +1,1 @@
-# .github
+# picodaq - Data acquisition made easy
